@@ -1,6 +1,3 @@
-# SmartBrain-api - v2
-Final project for Udemy course
+This app will allows you to upload a face image from the image's url or address. You will paste it in the detect box and the Face recognition API will detect the face of person in the image with a box. Try it out !
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+https://genius-grice.herokuapp.com/
